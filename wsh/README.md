@@ -1,1 +1,1 @@
-# Windows Script Host
+# wsh
