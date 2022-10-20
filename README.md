@@ -7,9 +7,9 @@ In this repo, I just share what I believe to be a complete list of malicious ext
 Can .VBS files for example really be malicious ? no !
 They are not. In fact, Visual basic script is nothing but just an Active Scripting language developed by Microsoft that is modeled on Visual Basic. It allows Microsoft Windows system administrators to generate powerful tools for managing computers with error handling, subroutines, and other advanced programming constructs. However apt actor can exploit the fact that such a scripting language can be used to create "softwares" equivalent in many features (command execution, download file from the internet, and execute it) to softwares created by a language like C++ in order to create Trojan downloader.
 
-### What is special about this files ?
+### What is special about these files ?
 
-As I mentioned above those scripting language can be exploited to create trojan downloader (which is a malicious software typically used to download a full capable RAT).
+As I mentioned above these scripting languages can be exploited to create trojan downloader (which is a malicious software typically used to download a full capable RAT).
 
 They are unkown and/or forgetten about ! 
 
