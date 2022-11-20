@@ -1,1 +1,1 @@
-# csh
+# C Shell Script
